@@ -7,9 +7,9 @@
   
 - 🤓 I'm still just a student
 
-- 🔭 I’m currently studing Firebase
+- 🔭 I’m currently studing Typescript and C#
 
-- 🤗 For now HTML, CSS and JavaScript are my knowledge
+- 🤗 For now Node, React and MongoDB are my knowledge
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -26,29 +26,26 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/JooLua4" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-AlanZayon-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://alanzayon.github.io/Portifolio/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Portifolio-05122A?style=flat&logo=github&logoColor=white" alt="portifolio"/>  
 </a>
 <a href="https://www.linkedin.com/in/alan-zayon-247838257/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-AlanZayon-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/alan.zayon/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-AlanZayon.-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 </p>
 
 ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <!--
