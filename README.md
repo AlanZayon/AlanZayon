@@ -7,7 +7,7 @@
   
 - 🤓 I'm still just a student
 
-- 🔭 I’m currently studing Typescript and C#
+- 🔭 I’m currently studing Typescript
 
 - 🤗 For now Node, React and MongoDB are my knowledge
 
