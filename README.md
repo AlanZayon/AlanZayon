@@ -5,7 +5,7 @@
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alan Zayon</h1>
   
   
-- 🤓 I'm still just a student
+- 🤓 I'm a fullstack devoloper
 
 - 🔭 I’m currently studing Typescript
 
