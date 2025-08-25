@@ -30,12 +30,16 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -62,8 +66,8 @@
 
 ## 🏆 Featured Projects
 
-1. **[Financial Document Processing API](https://github.com/AlanZayon/api-pdf-to-excel)** - Advanced solution for automated conversion of tax documents (PDF/DARF/DAS) into structured data (CSV/JSON/XML) with OCR and data validation, Node.js + TypeScript
-2. **[Management System](https://github.com/AlanZayon/interface-sistema-maranguape)** - Complete platform for department, position, and employee management with predictive analytics using NodeJs, React and MongoDB
+1. **[Financial Document Processing API](https://github.com/AlanZayon/ApiPdfCsv)** - Advanced solution for automated conversion of tax documents (PDF/DARF/DAS) into structured data (CSV/JSON/XML) with OCR and data validation, Node.js + TypeScript
+2. **[Management System](https://github.com/AlanZayon/api-maranguape)** - Complete platform for department, position, and employee management with predictive analytics using NodeJs, React and MongoDB
 
 ## 📫 Let's Connect!
 
