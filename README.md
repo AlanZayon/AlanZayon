@@ -2,7 +2,7 @@
   <img height="200" src="https://raw.githubusercontent.com/gist/AlanZayon/2fef7142b7645eceb5ab8ba0bc02dccb/raw/6bf355592f5e463effd822413a7ca6185e4594fa/githuncard.svg" alt="Alan Zayon's GitHub Banner"/>
   
   <h1>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alan Zayon</h1>
-  <h3>Backend Developer | Node.js | .NET 8 | Python | Scalable APIs & Data Processing</h3>
+  <h3>Backend Developer | Node.js | .NET 8 | Scalable APIs & Data Processing</h3>
   
   <p>
     <a href="https://github.com/AlanZayon?tab=followers">
@@ -29,7 +29,6 @@ Backend Developer with expertise in **Node.js/TypeScript, .NET 8, and Python**. 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
