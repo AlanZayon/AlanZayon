@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Backend Developer with expertise in **Node.js/TypeScript, .NET 8, and Python**. Specialized in creating scalable APIs, financial automation, and high-volume data processing. Achieved up to **60% reduction in operational time, 80% fewer errors, and significant performance improvements** in complex workflows using Redis, AWS S3, best practices, and efficient modeling.
+Backend Developer with expertise in **Node.js/TypeScript, .NET 8**. Specialized in creating scalable APIs, financial automation, and high-volume data processing. Achieved up to **60% reduction in operational time, 80% fewer errors, and significant performance improvements** in complex workflows using Redis, AWS S3, best practices, and efficient modeling.
 
 ## 🛠 Technical Skills
 
