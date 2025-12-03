@@ -67,27 +67,14 @@ Backend Developer with expertise in **Node.js/TypeScript, .NET 8**. Specialized 
 ### 1. **[Municipal Employee Management System](https://github.com/AlanZayon/api-maranguape)**
 **Stack:** Node.js, Express, TypeScript, MongoDB, Redis, AWS S3, React  
 **Live Demo:** [Interface System](https://interface-sistema-maranguape.vercel.app/)  
-**Impact:**
-- 40% reduction in page loading time with Redis caching
-- 30% improvement in query performance with optimized MongoDB modeling
-- 50% faster bulk updates with async pipelines
-- 70% reduction in manual errors through digitalization
 
 ### 2. **[Federal Revenue PDF Processing System](https://github.com/AlanZayon/api-pdf-to-excel)**
 **Stack:** Node.js, TypeScript, Express, Vue.js  
 **Live Demo:** [Front PDF to Excel](https://front-pdf-to-excel.vercel.app/)  
-**Impact:**
-- Reduced 1-2 hours per accounting operation
-- 80% reduction in manual DARF/DAS processing errors
-- 60% productivity increase in verification workflow
 
 ### 3. **[Financial Reconciliation System (OFX)](https://github.com/AlanZayon/ApiPdfCsv)**
 **Stack:** .NET 8, C#, Vue.js, PostgreSQL, EF Core  
 **Live Demo:** [PDF to Excel](https://pdftoexcel.netlify.app/)  
-**Impact:**
-- 90% increase in reconciliation accuracy
-- 50% reduction in manual verification time
-- 35% improvement in complex queries performance
 
 ## 📫 Let's Connect!
 
