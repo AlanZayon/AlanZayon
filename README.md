@@ -103,13 +103,14 @@ Org structure and staffing for up to **10,000** public servants.
 
 ## GitHub stats
 
+<!-- Official github-readme-stats.vercel.app is paused (503). Using github-stats-extended + streak-stats. -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlanZayon&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanZayon&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AlanZayon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlanZayon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlanZayon&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AlanZayon&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
 ---
