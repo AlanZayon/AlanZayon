@@ -97,7 +97,8 @@ DAS/DARF PDF + OFX → Domínio-standard CSV for accounting workflows.
 ### [Municipal staffing API](https://github.com/AlanZayon/api-maranguape)
 Org structure and staffing for up to **10,000** public servants.
 
-- **Stack:** Node.js · TypeScript · MongoDB · Redis · AWS S3 · React UI  
+- **Current stack:** ASP.NET Core 10 · MongoDB · Redis · Hangfire · AWS S3 · React UI  
+- **At Maranguape (Nov 2024–Nov 2025):** React · Node.js · TypeScript · MongoDB  
 - **Live UI:** [interface-sistema-maranguape.vercel.app](https://interface-sistema-maranguape.vercel.app/)  
 
 ---
