@@ -22,9 +22,8 @@ I'm a **Full-Stack .NET Developer** focused on **C#, .NET 8/9, and ASP.NET Core*
 I work end-to-end: business rules, multi-tenant isolation, background jobs, messaging, and integrations — including idempotent webhooks and DAS/DARF/OFX reconciliation.
 
 **Right now I'm working on**
-- Facial-biometrics event platforms (Angular 19, .NET 9, SQL Server, Azure Service Bus)
-- Fiscal products in production (Vue 3, .NET 8, Hangfire, PostgreSQL, Redis, AWS S3)
 - [GameScore](https://github.com/AlanZayon/GameScore-Project) — Next.js 16 + ASP.NET Core 10 modular monolith with Wilson-score ranking
+- [Smart RPG Campaign Generator](https://github.com/AlanZayon/python-gerador-inteligente-RPG) — Flask + Redis + FAISS (RAG) pipeline that turns rules PDFs into playable campaigns
 
 **Looking for** Full-Stack .NET / C# roles where I own the API, the operations UI, and flow reliability.
 
