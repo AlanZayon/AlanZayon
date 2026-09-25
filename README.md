@@ -24,6 +24,7 @@ I work end-to-end: business rules, multi-tenant isolation, background jobs, mess
 **Right now I'm working on**
 - Facial-biometrics event platforms (Angular 19, .NET 9, SQL Server, Azure Service Bus)
 - Fiscal products in production (Vue 3, .NET 8, Hangfire, PostgreSQL, Redis, AWS S3)
+- [GameScore](https://github.com/AlanZayon/GameScore-Project) — Next.js 16 + ASP.NET Core 10 modular monolith with Wilson-score ranking
 
 **Looking for** Full-Stack .NET / C# roles where I own the API, the operations UI, and flow reliability.
 
@@ -76,10 +77,11 @@ I work end-to-end: business rules, multi-tenant isolation, background jobs, mess
 ## Featured projects
 
 ### [GameScore](https://github.com/AlanZayon/GameScore-Project)
-Discover and rate games by player recommendations.
+Game discovery and rating from **player recommendations** — public score is the positive %, ranking uses the **Wilson score lower bound** so evidence volume matters.
 
-- **Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Redis · BullMQ · Docker  
-- Wilson-score ranking, full-text search, JWT + refresh, review-bomb detection  
+- **Stack:** Next.js 16 · React 19 · ASP.NET Core 10 (modular monolith) · EF Core · Hangfire · PostgreSQL · Redis · Docker · pnpm workspaces  
+- Full-text + trigram search, shared scoring maths (web + C# golden tests), Swagger, seed data for scoring demos  
+- Docs: architecture, database, scoring, API, development guides in-repo  
 
 ### [Smart RPG Campaign Generator](https://github.com/AlanZayon/python-gerador-inteligente-RPG)
 Turns a rules PDF into a playable campaign (overview, sessions, appendix).
